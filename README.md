@@ -15,7 +15,7 @@ The variables predicted in this model were credit risk associated with a loan. V
 - Split the data into *features (x)* and *target (y)* variables
 - Utlizied the logistic regression algorithm to classify loans as healthy or unhealthy
 - Evaluated the model's performance based on the historic lending data
-- Interpreted the accuracy and usefulness of the model <br>
+- Interpreted the accuracy and usefulness of the model <br><br>
 **Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).** <br>
 This model uses logistic regression to separate loans into one of two binary categories, healthy or unhealthy. 
 ## Results
