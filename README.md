@@ -20,10 +20,10 @@ The variables predicted in this model were credit risk associated with a loan. V
 This model uses logistic regression to separate loans into one of two binary categories, healthy or unhealthy. 
 ## Results
 **Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.**
-- For healthy loans:
+For healthy loans:
 -    Precision: 1.00
 -    Recall: 0.99
-- For unhealthy loans:
+For unhealthy loans:
 -    Precision: 0.85
 -    Recall: 0.91
 
