@@ -4,7 +4,7 @@
 
 ## Overview of the Analysis
 
-**Explain the purpose of the analysis.**
+**Explain the purpose of the analysis.**<br>
 The purpose of this analysis is to use historic lending data to assess the accuracy of a machine learning model in identifying healthy/creditworthy loans and unhealthy/un-creditworthy loans. This model is meant to assist financial institutions in easily and accurately identifying if lending to a customer presents a risk of default and a financial loss. 
 **Explain what financial information the data was on, and what you needed to predict.**
 The dataset included the size of the loan, the interest rate, the borrower's income, the borrower's debt to income ratio, the number of accounts the borrower held, the number of deragatory marks on the borrorwer's credit file, and the borrorwer's total debt. 
