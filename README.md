@@ -1,7 +1,5 @@
 # credit-risk-classification
 
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 **Explain the purpose of the analysis.** <br>
